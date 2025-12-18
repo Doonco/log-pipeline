@@ -156,6 +156,12 @@ python src/streaming/kafka_producer.py  # 터미널 1
 cd src/streamlit_app && ../../.venv/bin/streamlit run Home.py
 ```
 
+<video width="480" controls>
+  <source src="화면 기록 2025-10-30 오전 1.mp4" type="video/mp4">
+  브라우저가 video 태그를 지원하지 않습니다.
+</video>
+
+
 ---
 
 ## 📁 6. 디렉토리 구조 (Directory Structure)
