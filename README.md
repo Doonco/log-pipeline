@@ -155,12 +155,7 @@ python src/streaming/kafka_producer.py  # 터미널 1
 # 6. 대시보드 실행
 cd src/streamlit_app && ../../.venv/bin/streamlit run Home.py
 ```
-
-<video width="480" controls>
-  <source src="streamlit_recording.mp4" type="video/mp4">
-  브라우저가 video 태그를 지원하지 않습니다.
-</video>
-
+<img src="https://github.com/user-attachments/assets/a8f92a6a-c845-4311-b8e2-fbbd02bf6cb2" width="70%">
 
 ---
 
